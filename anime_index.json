@@ -8,8 +8,9 @@
     "iconUrl": "",
     "version": "1",
     "appMinVerReq": "1",
-    "sourceCodeLanguage": "1",
+    "sourceCodeLanguage": 1,
     "isManga": false,
-    "itemType": 1
+    "itemType": 1,
+    "id": 99001
   }
 ]   
