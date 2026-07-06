@@ -4,7 +4,7 @@
     "baseUrl": "https://moviesgum.com",
     "lang": "en",
     "typeSource": "single",
-    "sourceCodeUrl": "https://raw.githubusercontent.com/Blanck5635/my-movies/main/moviesmod.js",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/Blank5635/my-movies/refs/heads/main/moviesmod.js",
     "iconUrl": "",
     "version": "1",
     "appMinVerReq": "1",
