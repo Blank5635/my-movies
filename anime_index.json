@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MoviesMod",
+    "baseUrl": "https://moviesgum.com",
+    "lang": "en",
+    "typeSource": "single",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/Blanck5635/my-movies/main/moviesmod.js",
+    "iconUrl": "",
+    "version": "1",
+    "appMinVerReq": "1",
+    "sourceCodeLanguage": "1",
+    "isManga": false,
+    "itemType": 1
+  }
+]   
